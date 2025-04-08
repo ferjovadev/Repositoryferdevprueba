@@ -1,0 +1,22 @@
+{
+  "name": "proyectnode",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferjovadev/Repositoryferdevprueba.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferjovadev/Repositoryferdevprueba/issues"
+  },
+  "homepage": "https://github.com/ferjovadev/Repositoryferdevprueba#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
